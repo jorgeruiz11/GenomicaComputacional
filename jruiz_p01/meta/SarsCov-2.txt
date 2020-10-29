@@ -1,0 +1,15 @@
+El subgénero está muy relacionado a los cornavirus de los murcielagos, pero se cree
+que tuvo que haber un intermediario para poder llegar al ser humano.
+
+Es un virus de cadena de RNA sencilla, positiva, que está enrollado en una nucleocápside
+y envuelto en una glicoproteína de membrana y es un virus de 50-20nm.
+
+Se menciona que en la piel no tenemos el receptor para que el virus pueda penetrar, así que
+solo puede hacerlo mediante el tracto gastrintestinal, el tejido nervioso, etc.
+
+Las primeras letras de la secuencia de RNA da la máquinaria dentro de la célula
+infectada para leer las letras del RNA y traducirlas en proteinas de coronavirus.
+
+Contar con la anatomía y la estructura de los virus nos permite pensar en la realización
+de una posible vacuna para neutralizar los virus. Y la estrucutura molecular también
+nos permite determinar sitios donde pueden actuar los farmacos.

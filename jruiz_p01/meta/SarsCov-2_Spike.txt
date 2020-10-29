@@ -1,0 +1,6 @@
+La función es revisar el contenido actual de las estructuras y funciones de las
+proteínas del coronavirus, sobre como los dos dominios S1 reconocen diferentes receptores
+y cómo las proteínas de pico están reguladas para sufrir transiciones conformacionales.
+
+También se discuten las evoluciones de esas dos funciones y el reconocimiento de
+receptores y la fusión de membranas.
